@@ -1,0 +1,6 @@
+interface:
+  display_name: "teco-industry-needs-analysis"
+  short_description: "分析行业常规需求、痛点、采购触发因素与选择标准，形成销售验证计划"
+  default_prompt: "Use $teco-industry-needs-analysis to research this industry's buyer needs and pain points, then prepare an evidence-backed sales validation plan."
+policy:
+  allow_implicit_invocation: true
